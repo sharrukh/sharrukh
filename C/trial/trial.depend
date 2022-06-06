@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1654065660 source:c:\users\sharr\desktop\1.c
+	<stdio.h>
+
+1654070178 source:c:\users\sharr\desktop\c\2.c
+	<stdio.h>
+
+1654070160 source:c:\users\sharr\desktop\c\3.c
+	<stdio.h>
+
+1654415955 source:c:\users\sharr\desktop\c\si.c
+	<stdio.h>
+	<math.h>
+
